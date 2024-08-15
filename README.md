@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Develops**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dikshu3586](https://github.com/Vsdamodar)
+- 👨‍💻 All of my projects are available at(https://github.com/Vsdamodar)
 
 - 💬 Ask me about **C, C++**
 
