@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Develops**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dikshu3586](https://github.com/Dikshu3586)
+- 👨‍💻 All of my projects are available at [https://github.com/Dikshu3586](https://github.com/Vsdamodar)
 
 - 💬 Ask me about **C, C++**
 
-- 📫 How to reach me **dikshita.y.1403@gmail.com**
+- 📫 How to reach me **Vsdamodar22@gmail.com**
 
 - ⚡ Fun fact **I am very serious about my Goal's**
 
