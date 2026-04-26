@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaibhave</h1>
+<h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at(https://github.com/Vsdamodar)
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **python, sql, powerBI**
 
 - 📫 How to reach me **Vsdamodar22@gmail.com**
 
